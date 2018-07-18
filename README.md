@@ -15,3 +15,7 @@ AddressFromMapViewController *vc = [[AddressFromMapViewController alloc] init];
     };
     [self.navigationController pushViewController:vc animated:YES];
  ```
+
+## 示例
+
+![](https://github.com/UXIUME/AddressFromMap/blob/master/Untitled3.gif)
